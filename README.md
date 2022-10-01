@@ -49,6 +49,7 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <img src="https://custom-icon-badges.demolab.com/badge/-Fish%20Shell-gold?style=for-the-badge&logo=terminal&logoColor=black" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-WSL-blue?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 #
