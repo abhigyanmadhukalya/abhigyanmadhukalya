@@ -10,7 +10,7 @@
   <a href="https://twitter.com/abhimadhukalya">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://discordapp.com/users/877409358793818136">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
