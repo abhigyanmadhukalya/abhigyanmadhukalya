@@ -84,7 +84,7 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://www.goodreads.com/user/show/156687497-abhigyan-madhukalya">
       <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
   </a>
-  <a href="https://dev.to/amadhukalya">
+  <a href="https://dev.to/abhimadhukalya">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
