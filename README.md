@@ -58,7 +58,7 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
 
 <h3>I 💙</h3>
 
-- Playing games in my free time. I have had a deep love for gaming ever since I was young. I started to code because I wanted to edit the save files in games to get an unfair advantage and cheese. My favorite game franchises are Assassin's Creed, Fallout, Counter Strike etc. I also play osu! a lot.
+- Playing games in my free time. I have had a deep love for gaming ever since I was young. I started to code because I wanted to edit the save files in games to get an unfair advantage and cheese them. My favorite game franchises are Assassin's Creed, Fallout, Counter Strike etc. I also play osu! a lot.
 
 - Studying Chemistry and Physics. I know I'm bad at Mathematics so I love studying the subjects I'm good at to keep my anxiety in check.
 
