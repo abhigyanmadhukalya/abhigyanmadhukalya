@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator/Student)`**
 
-I'm a budding self-taught Developer who hopes to become a Full-Stack Developer in the future. I hope to create my vision for the digital world one step at a time along with others and help create their's as well. I am a Higher-Secondary student currently attending [Narayana e-Techno School, Guwahati](https://narayanagroup.com) and preparing for the [Joint Engineering Examination (JEE)](https://jeemain.nta.nic.in/) conducted in India.
+I'm a budding self-taught Developer who hopes to become a Full-Stack Developer in the future. I hope to create my vision for the digital world one step at a time along with others and help create their's as well. I am a Higher-Secondary student currently attending [Narayana e-Techno School, Guwahati](https://goo.gl/maps/wFD66Q3pW44imDXm9) and preparing for the [Joint Engineering Examination (JEE)](https://jeemain.nta.nic.in/) conducted in India.
 
 <p align="left">
   <a href="https://github.com/abhigyanmadhukalya">
