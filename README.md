@@ -19,43 +19,95 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   </a>
 </p>
 
----
+______________________________________________________________________
 
 <div id="languages" align="left">
 <h3><img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/200w.webp?cid=ecf05e47olu6sa4c7co62p8z88f2b9k1cajghtl3mh86wpi2&rid=200w.webp&ct=s" width="40" />Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/-Java%20-black?style=for-the-badge&logo=java&logoColor=white" />
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" >
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://lua.org">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://tailwindcss.com">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+  <a href="https://getbootrap.com">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+  <a href="https://mysql.com">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.iso.org/standard/74528.html">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://daringfireball.net/projects/markdown/">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  </a>
+  <a href="https://java.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Java%20-black?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
 </div>
 
 <div id="tools" align="left">
 <h3><img src="https://media3.giphy.com/media/Uttxkr1CEIRPoh9KcG/200w.webp?cid=ecf05e47fpzm0fw43iplni9w695rujomufdpdqau9g8qqoxz&rid=200w.webp&ct=s" width="20" />Tools</h3>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/-Fish%20Shell-gold?style=for-the-badge&logo=terminal&logoColor=black" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/-WSL-blue?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+  <a href="https://android.com">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://linux.org">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+  <a href="https://archlinux.org">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  </a>
+  <a href="https://ubuntu.com">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://office.com">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://fishshell.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Fish%20Shell-gold?style=for-the-badge&logo=terminal&logoColor=black" />
+  </a>
+  <a href="neovim.org">
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/windows/wsl/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-WSL-blue?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://aka.ms/terminal">
+    <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+  </a>
 </div>
 
----
+______________________________________________________________________
 
 <h3>I 💙</h3>
 
@@ -90,7 +142,7 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   </a>
 </p>
 
----
+______________________________________________________________________
 
 <h3><img src="https://media3.giphy.com/media/RVWSqOsgDAq0W3051o/200w.webp?cid=ecf05e47w41ko9xnwqkbtc631kp2qfjxk976kijjrtg7kffm&rid=200w.webp&ct=s" width="30" />My Stats</h3>
 
