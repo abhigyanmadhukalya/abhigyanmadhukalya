@@ -14,9 +14,6 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://discordapp.com/users/877409358793818136">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/UCgcOpNkg--8qKxVwoNuivlg">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ______________________________________________________________________
