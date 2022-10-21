@@ -35,9 +35,6 @@ ______________________________________________________________________
   <a href="https://lua.org">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   </a>
-  <a href="https://reactjs.org">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
   <a href="https://tailwindcss.com">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a>
@@ -55,9 +52,6 @@ ______________________________________________________________________
   </a>
   <a href="https://daringfireball.net/projects/markdown/">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  </a>
-  <a href="https://java.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Java%20-black?style=for-the-badge&logo=java&logoColor=white" />
   </a>
 </div>
 
