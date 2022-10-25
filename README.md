@@ -16,7 +16,7 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   </a>
 </p>
 
-______________________________________________________________________
+---
 
 <div id="languages" align="left">
 <h3><img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/200w.webp?cid=ecf05e47olu6sa4c7co62p8z88f2b9k1cajghtl3mh86wpi2&rid=200w.webp&ct=s" width="40" />Languages</h3>
@@ -98,9 +98,18 @@ ______________________________________________________________________
   </a>
 </div>
 
-______________________________________________________________________
+---
 
-<h3>I 💙</h3>
+<h3><img src="https://media3.giphy.com/media/RVWSqOsgDAq0W3051o/200w.webp?cid=ecf05e47w41ko9xnwqkbtc631kp2qfjxk976kijjrtg7kffm&rid=200w.webp&ct=s" width="30" />My Stats</h3>
+
+![Abhigyan's GitHub stats](https://github-readme-stats-five-navy-91.vercel.app/api?username=abhigyanmadhukalya&show_icons=true&theme=vision-friendly-dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhigyanmadhukalya&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+<details>
+ <summary><h3>I 💙</h3></summary>
 
 - Playing games in my free time. I have had a deep love for gaming ever since I was young. I started to code because I wanted to edit the save files in games to get an unfair advantage and cheese them. My favorite game franchises are Assassin's Creed, Fallout, Counter Strike etc. I also play osu! a lot.
 
@@ -132,11 +141,3 @@ ______________________________________________________________________
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
-
-______________________________________________________________________
-
-<h3><img src="https://media3.giphy.com/media/RVWSqOsgDAq0W3051o/200w.webp?cid=ecf05e47w41ko9xnwqkbtc631kp2qfjxk976kijjrtg7kffm&rid=200w.webp&ct=s" width="30" />My Stats</h3>
-
-![Abhigyan's GitHub stats](https://github-readme-stats-five-navy-91.vercel.app/api?username=abhigyanmadhukalya&show_icons=true&theme=vision-friendly-dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhigyanmadhukalya&theme=dark&background=000000)](https://git.io/streak-stats)
