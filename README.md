@@ -81,7 +81,7 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://fishshell.com">
     <img src="https://custom-icon-badges.demolab.com/badge/-Fish%20Shell-gold?style=for-the-badge&logo=terminal&logoColor=black" />
   </a>
-  <a href="neovim.org">
+  <a href="https://neovim.org">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com">
