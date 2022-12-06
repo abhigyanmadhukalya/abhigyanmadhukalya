@@ -14,6 +14,9 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://discordapp.com/users/877409358793818136">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://gitlab.com/abhigyanmadhukalya">
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -60,20 +63,11 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://android.com">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </a>
-  <a href="https://linux.org">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
   <a href="https://archlinux.org">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   </a>
-  <a href="https://ubuntu.com">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  </a>
   <a href="https://www.microsoft.com/en-us/windows">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
-  <a href="https://office.com">
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   </a>
   <a href="https://github.com">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -93,19 +87,14 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://git-scm.com">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://aka.ms/terminal">
-    <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
-  </a>
 </div>
 
 ---
 
 <h3><img src="https://media3.giphy.com/media/RVWSqOsgDAq0W3051o/200w.webp?cid=ecf05e47w41ko9xnwqkbtc631kp2qfjxk976kijjrtg7kffm&rid=200w.webp&ct=s" width="30" />My Stats</h3>
 
-![Abhigyan's GitHub stats](https://github-readme-stats-five-navy-91.vercel.app/api?username=abhigyanmadhukalya&show_icons=true&theme=vision-friendly-dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhigyanmadhukalya&theme=dark&background=000000)](https://git.io/streak-stats)
-
+![Abhigyan's GitHub stats](https://github-readme-stats-five-navy-91.vercel.app/api?username=abhigyanmadhukalya&show_icons=true&theme=vision-friendly-dark) [![GitHub Streak](https://streak-stats.demolab.com?user=abhigyanmadhukalya&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 ---
 
 <details>
@@ -141,3 +130,4 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
+</details>
