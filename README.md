@@ -1,4 +1,4 @@
-# 🌙 Abhigyan Madhukalya
+# Abhigyan Madhukalya
 
 **`Digital Craftsman (Developer/Creator/Student)`**
 
