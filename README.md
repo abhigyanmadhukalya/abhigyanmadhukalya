@@ -100,11 +100,7 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
 <details>
  <summary><h3>I 💙</h3></summary>
 
-- Playing games in my free time. I have had a deep love for gaming ever since I was young. I started to code because I wanted to edit the save files in games to get an unfair advantage and cheese them. My favorite game franchises are Assassin's Creed, Fallout, Counter Strike etc.
-
 - Studying Chemistry and Physics. I know I'm bad at Mathematics so I love studying the subjects I'm good at to keep my anxiety in check.
-
-- Watching Anime. I started watch anime ever since I was young and still enjoy it very much. My favorite anime is 86-Eighty Six-. I don't like watching TV shows because they are very sterile compared to anime. Plus, I can also read the manga or play the game to continue the story if it an adaptation which is nice.
 
 - Reading books. I love reading books as it makes me feel more intelligent than I actually am. Reading books is one of the few times in the day I am away from a screen and is very refreshing. My favorite author is H.P.Lovecraft as I love his weird-science-fiction genre of books.
 
