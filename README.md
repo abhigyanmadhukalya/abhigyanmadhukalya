@@ -112,7 +112,6 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://open.spotify.com/user/fcf89fdvq7tqgiavzqoyj47pa">
       <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
   <a href="https://www.goodreads.com/user/show/156687497-abhigyan-madhukalya">
       <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
   </a>
