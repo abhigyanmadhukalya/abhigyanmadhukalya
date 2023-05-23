@@ -109,14 +109,8 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
 - Reading and going through blogs about coding and programming is really intresting to me because I know if I encounter a new way of doing a thing, I know I am trying it in a existing project of mine and see how it goes. It also helps to build up the programmer mindset.
 
 <p align="left">
-  <a href="https://steamcommunity.com/id/abhigyanmadhukalya/">
-      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
   <a href="https://open.spotify.com/user/fcf89fdvq7tqgiavzqoyj47pa">
       <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://myanimelist.net/profile/abhimadhukalya">
-      <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
   <a href="https://www.goodreads.com/user/show/156687497-abhigyan-madhukalya">
