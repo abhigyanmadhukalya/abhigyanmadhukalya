@@ -11,9 +11,6 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://twitter.com/abhimadhukalya">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/877409358793818136">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://gitlab.com/abhigyanmadhukalya">
       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
