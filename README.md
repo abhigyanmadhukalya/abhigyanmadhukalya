@@ -11,8 +11,8 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://twitter.com/abhimadhukalya">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/abhigyanmadhukalya">
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <a href="https://www.threads.net/@abhigyan.madhukalya">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white%22" />
   </a>
 </p>
 
