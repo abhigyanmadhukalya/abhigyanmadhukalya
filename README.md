@@ -23,9 +23,6 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" >
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
   <a href="https://html.spec.whatwg.org/multipage/">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
@@ -34,9 +31,6 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   </a>
   <a href="https://lua.org">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  </a>
-  <a href="https://tailwindcss.com">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a>
   <a href="https://getbootrap.com">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -57,14 +51,8 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
 
 <div id="tools" align="left">
 <h3><img src="https://media3.giphy.com/media/Uttxkr1CEIRPoh9KcG/200w.webp?cid=ecf05e47fpzm0fw43iplni9w695rujomufdpdqau9g8qqoxz&rid=200w.webp&ct=s" width="20" />Tools</h3>
-  <a href="https://android.com">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
   <a href="https://archlinux.org">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
   <a href="https://github.com">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,9 +62,6 @@ I'm a budding self-taught Developer who hopes to become a Full-Stack Developer i
   </a>
   <a href="https://code.visualstudio.com">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/windows/wsl/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-WSL-blue?style=for-the-badge&logo=linux&logoColor=white" />
   </a>
   <a href="https://git-scm.com">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
