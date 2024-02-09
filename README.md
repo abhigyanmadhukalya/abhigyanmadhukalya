@@ -41,13 +41,13 @@ JSON         4 hrs 43 mins   ▓░░░░░░░░░░░░░░░░
 [Neovim](https://neovim.oi) | [Linux](https://fedoraproject.org/) | [Alacritty](https://alacritty.org/) | [Git](https://git-scm.com/) | [Obsidian](https://obsidian.md) | [Trello](https://trello.com)
 
 ⌨️ Languages :<br>
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,c,html,css,javascript,bash,powershell&theme=light)](https://skillicons.dev)
+[Python](https://python.org) | [C](https://www.iso.org/standard/74528.html) | [HTML](https://html.spec.whatwg.org/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [MySQL](https://www.mysql.com/) | [Bash Scripting](https://www.gnu.org/software/bash/)
 
 ---
 
 ## Some recent activity from me
 <p align="center">
   <img src="./github-metrics.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhigyanmadhukalya&theme=github_dark" />
 </p>
-
 
