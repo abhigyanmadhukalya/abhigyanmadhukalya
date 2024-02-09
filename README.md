@@ -1,12 +1,12 @@
+![header](./header.png)
 ```
 # 皆さん、こんにちは! 👋
 ```
-
 ---
 
 ## Somethings about me
-- 📖 Student at [International School Guwahati](https://internationalschoolguwahati.com/).
-- 💻 Fedora 39 Workstation | Windows 11 | Android 8 :(
+- 📕 Student at [International School Guwahati](https://internationalschoolguwahati.com/).
+- 🐧 Fedora 39 Workstation | 💻 Windows 11 | 🤖 Android 8 :(
 - 🖋️ Studying for JEE and CEE exams right now.
 
 ---
@@ -34,10 +34,20 @@ JSON         4 hrs 43 mins   ▓░░░░░░░░░░░░░░░░
 
 ---
 
-📫 Socials :<br>
-[EMail](mailto:abhigyanmadhukalya@skiff.com) | [Mastodon](https://mstdn.social/@abhigyanmadhukalya) | [Twitter](https://twitter.com/abhimadhukalya) | [Instagram](https://www.instagram.com/abhigyan.madhukalya/)
+📪 Socials :<br>
+[E-Mail](mailto:abhigyanmadhukalya@skiff.com) | [Mastodon](https://mstdn.social/@abhigyanmadhukalya) | [Twitter](https://twitter.com/abhimadhukalya) | [Instagram](https://www.instagram.com/abhigyan.madhukalya/)
+
+🧰 Tools :<br>
+[Neovim](https://neovim.oi) | [Linux](https://fedoraproject.org/) | [Alacritty](https://alacritty.org/) | [Git](https://git-scm.com/) | [Obsidian](https://obsidian.md) | [Trello](https://trello.com)
+
+⌨️ Languages :<br>
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,c,html,css,javascript,bash,powershell&theme=light)](https://skillicons.dev)
 
 ---
 
 ## Some recent activity from me
-![metrics](./github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+
