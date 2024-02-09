@@ -38,3 +38,6 @@ JSON         4 hrs 43 mins   ▓░░░░░░░░░░░░░░░░
 [EMail](mailto:abhigyanmadhukalya@skiff.com) | [Mastodon](https://mstdn.social/@abhigyanmadhukalya) | [Twitter](https://twitter.com/abhimadhukalya) | [Instagram](https://www.instagram.com/abhigyan.madhukalya/)
 
 ---
+
+## Some recent activity from me
+![metrics](./github-metrics.svg)
