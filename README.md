@@ -7,7 +7,9 @@
 ## Somethings about me
 - 📕 Student at [International School Guwahati](https://internationalschoolguwahati.com/).
 - 🐧 Fedora 39 Workstation | 💻 Windows 11 | 🤖 Android 8 :(
-- 🖋️ Studying for JEE and CEE exams right now.
+- 🖋️ Studying for **JEE** and **CEE** exams right now.
+- 💬 Ask me about **Go**, **Git** and **Python**.
+- 🔭 Currently learning **Go**.
 
 ---
 
@@ -41,7 +43,7 @@ JSON         4 hrs 43 mins   ▓░░░░░░░░░░░░░░░░
 [Neovim](https://neovim.oi) | [Linux](https://fedoraproject.org/) | [Alacritty](https://alacritty.org/) | [Git](https://git-scm.com/) | [Obsidian](https://obsidian.md) | [Trello](https://trello.com)
 
 ⌨️ Languages :<br>
-[Python](https://python.org) | [C](https://www.iso.org/standard/74528.html) | [HTML](https://html.spec.whatwg.org/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [MySQL](https://www.mysql.com/) | [Bash Scripting](https://www.gnu.org/software/bash/)
+[Python](https://python.org) | [C](https://www.iso.org/standard/74528.html) | [HTML](https://html.spec.whatwg.org/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [MySQL](https://www.mysql.com/) | [Bash Scripting](https://www.gnu.org/software/bash/) | [Go](https://go.dev)
 
 ---
 
