@@ -16,20 +16,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2022 - To: 09 February 2024
+From: 06 July 2022 - To: 10 February 2024
 
-Total Time: 193 hrs 6 mins
+Total Time: 199 hrs 32 mins
 
-Python       49 hrs 34 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-Lua          38 hrs 38 mins  █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-Markdown     14 hrs 47 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-C            14 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-JavaScript   13 hrs 9 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-HTML         9 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Bash         6 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-fish         5 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-TypeScript   4 hrs 44 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-JSON         4 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Python       49 hrs 36 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
+Lua          38 hrs 51 mins  █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+Markdown     15 hrs 1 min    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+C            14 hrs 13 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+JavaScript   13 hrs 9 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+HTML         9 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Go           6 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Bash         6 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+fish         5 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+JSON         4 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
