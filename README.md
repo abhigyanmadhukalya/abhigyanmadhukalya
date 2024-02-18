@@ -6,7 +6,7 @@
 
 ## Somethings about me
 - 📕 Student at [International School Guwahati](https://internationalschoolguwahati.com/).
-- 🐧 Fedora 39 Workstation | 💻 Windows 11 | 🤖 Android 8 :(
+- 🐧 Endeavour OS | 💻 Windows 11 | 🤖 Android 8 :(
 - 🖋️ Studying for **JEE** and **CEE** exams right now.
 - 💬 Ask me about **Go**, **Git** and **Python**.
 - 🔭 Currently learning **Go**.
