@@ -6,7 +6,7 @@
 
 ## Somethings about me
 - 📕 Student at [International School Guwahati](https://internationalschoolguwahati.com/).
-- 🐧 Endeavour OS | 💻 Windows 11 | 🤖 Android 8 :(
+- 🐧 Arch Linux (btw) | 🤖 Android 13 :(
 - 🖋️ Studying for **JEE** and **CEE** exams right now.
 - 💬 Ask me about **Go**, **Git** and **Python**.
 - 🔭 Currently learning **Go**.
@@ -37,10 +37,10 @@ conf         7 hrs 8 mins    ▓░░░░░░░░░░░░░░░░
 ---
 
 📪 Socials :<br>
-[E-Mail](mailto:abhigyanmadhukalya@skiff.com) | [Mastodon](https://mstdn.social/@abhigyanmadhukalya) | [Twitter](https://twitter.com/abhimadhukalya) | [Instagram](https://www.instagram.com/abhigyan.madhukalya/)
+[E-Mail](mailto:abhigyanmadhukalya@gmail.com) | [Mastodon](https://mstdn.social/@abhigyanmadhukalya)
 
 🧰 Tools :<br>
-[Neovim](https://neovim.oi) | [Linux](https://endeavouros.com/) | [Wezterm](https://wezfurlong.org/wezterm/index.html) | [Git](https://git-scm.com/) | [Obsidian](https://obsidian.md) | [Trello](https://trello.com)
+[Neovim](https://neovim.oi) | [Linux](https://archlinux.org/) | [Wezterm](https://wezfurlong.org/wezterm/index.html) | [Git](https://git-scm.com/) | [Obsidian](https://obsidian.md) | [Trello](https://trello.com)
 
 ⌨️ Languages :<br>
 [Python](https://python.org) | [C](https://www.iso.org/standard/74528.html) | [HTML](https://html.spec.whatwg.org/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [MySQL](https://www.mysql.com/) | [Bash Scripting](https://www.gnu.org/software/bash/) | [Go](https://go.dev)
