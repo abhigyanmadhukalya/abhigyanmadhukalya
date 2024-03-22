@@ -37,7 +37,7 @@ conf         7 hrs 9 mins    ▓░░░░░░░░░░░░░░░░
 ---
 
 📪 Socials :<br>
-[E-Mail](mailto:abhigyanmadhukalya@gmail.com) | [Mastodon](https://mastodon.social/@abhigyanmadhukalya)
+[E-Mail](mailto:abhigyanmadhukalya@gmail.com) | <a rel="me" href="https://mastodon.social/@abhigyanmadhukalya">Mastodon</a>
 
 🧰 Tools :<br>
 [Neovim](https://neovim.oi) | [Linux](https://archlinux.org/) | [Wezterm](https://wezfurlong.org/wezterm/index.html) | [Git](https://git-scm.com/) | [Obsidian](https://obsidian.md) | [Trello](https://trello.com)
