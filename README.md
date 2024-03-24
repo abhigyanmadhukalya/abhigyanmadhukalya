@@ -43,7 +43,7 @@ conf         7 hrs 9 mins    ▓░░░░░░░░░░░░░░░░
 [Neovim](https://neovim.oi) | [Linux](https://archlinux.org/) | [Wezterm](https://wezfurlong.org/wezterm/index.html) | [Git](https://git-scm.com/) | [Obsidian](https://obsidian.md) | [Trello](https://trello.com)
 
 ⌨️ Languages :<br>
-[Python](https://python.org) | [C](https://www.iso.org/standard/74528.html) | [HTML](https://html.spec.whatwg.org/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [MySQL](https://www.mysql.com/) | [Bash Scripting](https://www.gnu.org/software/bash/) | [Go](https://go.dev)
+[Python](https://python.org) | [C](https://www.iso.org/standard/74528.html) | [HTML](https://html.spec.whatwg.org/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [MySQL](https://www.mysql.com/) | [Bash Scripting](https://www.gnu.org/software/bash/) | [Go](https://go.dev)
 
 ---
 
