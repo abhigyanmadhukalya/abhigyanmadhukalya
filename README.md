@@ -5,9 +5,8 @@
 ---
 
 ## Somethings about me
-- 📕 Student at [International School Guwahati](https://internationalschoolguwahati.com/).
 - 🐧 [Arch Linux (btw)](https://archlinux.org) | 🤖 Android 13 :(
-- 🖋️ Studying for **JEE** and **CEE** exams right now.
+- 🖋️ Studying for **CEE** and **CUET** exams right now.
 - 💬 Ask me about **Go**, **Git** and **Python**.
 - 🔭 Currently learning **Go**.
 
