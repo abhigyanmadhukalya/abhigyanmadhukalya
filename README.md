@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2022 - To: 12 April 2024
+From: 06 July 2022 - To: 13 April 2024
 
-Total Time: 236 hrs 45 mins
+Total Time: 236 hrs 47 mins
 
 Python       50 hrs 53 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
-Lua          41 hrs 35 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Lua          41 hrs 37 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
 Markdown     16 hrs 1 min    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
 C            14 hrs 13 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
 JavaScript   13 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
