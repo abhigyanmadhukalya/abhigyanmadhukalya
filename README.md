@@ -5,7 +5,7 @@
 ---
 
 ## Somethings about me
-- 🐧 [Arch Linux (btw)](https://archlinux.org) | 🤖 Android 13 :(
+- 🐧 [Arch Linux (btw)](https://archlinux.org)
 - 🖋️ Studying for **CEE** and **CUET** exams right now.
 - 💬 Ask me about **Go**, **Git** and **Python**.
 - 🔭 Currently learning **Go**.
