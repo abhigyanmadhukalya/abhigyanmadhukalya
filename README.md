@@ -5,7 +5,7 @@
 ---
 
 ## Somethings about me
-- 🖋️ Studying for **CEE** and **CUET** exams right now.
+- 🖋️ Waiting for admission in College :)
 - 💬 Ask me about **Go**, **Git** and **Python**.
 - 🔭 Currently learning **Go**.
 
