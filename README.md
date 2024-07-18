@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2022 - To: 16 July 2024
+From: 06 July 2022 - To: 17 July 2024
 
 Total Time: 253 hrs 22 mins
 
@@ -25,7 +25,7 @@ C            14 hrs 15 mins  █▒░░░░░░░░░░░░░░░
 JavaScript   13 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 Bash         13 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 conf         9 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other        9 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other        9 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 HTML         9 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 Go           8 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
