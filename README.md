@@ -5,7 +5,7 @@
 ---
 
 ## Somethings about me
-- 🖋️ Waiting for admission in College :)
+- 🖋️ Ist Year Student at [Jorhat Engineering College](https://jecassam.ac.in) (Instrumentation Engineering)
 - 💬 Ask me about **Go**, **Git** and **Python**.
 - 🔭 Currently learning **Go**.
 
