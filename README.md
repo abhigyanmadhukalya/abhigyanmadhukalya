@@ -7,7 +7,7 @@
 ## Somethings about me
 - 🖋️ Ist Year Student at [Jorhat Engineering College](https://jecassam.ac.in) (Instrumentation Engineering)
 - 💬 Ask me about **Go**, **Git** and **Python**.
-- 🔭 Currently learning **Go**.
+- 🔭 Currently relearning **C**.
 
 ---
 
@@ -35,10 +35,10 @@ Go           8 hrs 30 mins   █░░░░░░░░░░░░░░░░
 ---
 
 📪 Socials :<br>
-[E-Mail](mailto:abhigyanmadhukalya@gmail.com) | <a rel="me" href="https://mastodon.social/@abhigyanmadhukalya">Mastodon</a>
+[E-Mail](mailto:abhigyanmadhukalya@gmail.com) | <a rel="me" href="https://mastodon.social/@abhigyanmadhukalya">Mastodon</a> | [LinkedIn](https://www.linkedin.com/in/abhigyanmadhukalya000/)
 
 🧰 Tools :<br>
-[Neovim](https://neovim.oi) | [Linux](https://archlinux.org/) | [Wezterm](https://wezfurlong.org/wezterm/index.html) | [Git](https://git-scm.com/) | [Obsidian](https://obsidian.md) | [Trello](https://trello.com)
+[Visual Studio Code](https://code.visualstudio.com/) | [WSL](https://learn.microsoft.com/en-us/windows/wsl/) | [Wezterm](https://wezfurlong.org/wezterm/index.html) | [Git](https://git-scm.com/) | [Todoist](https://todoist.com)
 
 ⌨️ Languages :<br>
 [Python](https://python.org) | [C](https://www.iso.org/standard/74528.html) | [HTML](https://html.spec.whatwg.org/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [MySQL](https://www.mysql.com/) | [Bash Scripting](https://www.gnu.org/software/bash/) | [Go](https://go.dev)
