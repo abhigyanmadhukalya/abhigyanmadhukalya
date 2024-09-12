@@ -14,14 +14,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2022 - To: 09 September 2024
+From: 06 July 2022 - To: 11 September 2024
 
-Total Time: 253 hrs 22 mins
+Total Time: 253 hrs 26 mins
 
 Python       51 hrs 54 mins  █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-Lua          42 hrs 57 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-Markdown     16 hrs 9 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-C            14 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Lua          43 hrs 1 min    ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+Markdown     16 hrs 10 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+C            14 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 JavaScript   13 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 Bash         13 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 conf         9 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
