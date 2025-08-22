@@ -5,7 +5,7 @@
 ---
 
 ## Somethings about me
-- 🖋️ 2nd Year Student at [Assam Engineering College](https://aec.ac.in) (Instrumentation Engineering)
+- 🖋️ 2nd Year Student at [Assam Engineering College](https://aec.ac.in) (Electrical Engineering)
 - 💬 Ask me about **Go**, **Git** and **Python**.
 - 🔭 Currently relearning **C**.
 
